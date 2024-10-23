@@ -1,4 +1,4 @@
-.skill__inner {
+.slkll__inner {
     padding: 16px;
     display: flex;
     justify-content: space-between;
@@ -42,8 +42,9 @@
     margin-bottom: 30vh;
     font-size: 1.1rem;
 }
+
 @media (max-width: 800px){
-    .skill__inner {
+    .slkll__inner {
         flex-direction: column;
     }
     .skill__title {
